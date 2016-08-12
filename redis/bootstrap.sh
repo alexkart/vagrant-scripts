@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+### https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
+
 sudo apt-get -y update
 sudo apt-get -y upgrade
 sudo apt-get -y install build-essential tcl
